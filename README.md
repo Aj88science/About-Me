@@ -1,5 +1,5 @@
 # About-Me
-<img src="https://github.com/rajdas2001/rajdas2001/blob/master/new-github-bg.png">
+<img src="https://github.com/Aj88science/About-Me/blob/main/profile%20pic.jpeg">
 <h1>Hey! I am <a href="https://rajdas2001.github.io/rajdas/">Raj</a> &nbsp;<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 
