@@ -1,5 +1,8 @@
 # About-Me
-<img src="https://github.com/Aj88science/About-Me/blob/main/profile%20pic.jpeg">
+
+<p align = "center">
+<img align="center" src="https://github.com/Aj88science/About-Me/blob/main/rocketScience_xxltn.jpg">
+</p>
 <h1>Hey! I am <a href="https://rajdas2001.github.io/rajdas/">Raj</a> &nbsp;<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 
