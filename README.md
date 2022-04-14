@@ -14,7 +14,7 @@
    
    <h3>My Tech Stack</h3>
 
-<img align="center" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> &nbsp; <img align="center" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" /> &nbsp; <img align="center" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" /> &nbsp; <img align="center" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> &nbsp; <img align="center" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" /> &nbsp; <img align="center" width="36px" src="https://github.com/Aj88science/About-Me/blob/main/download.png" /> &nbsp;<img align="center" width="36px" src="https://github.com/Aj88science/About-Me/blob/main/kisspng-matlab-mathworks-simulink-computer-software-eigenf-deep-learning-5b196403700b54.8609250515283906594589.jpg" /> &nbsp; <img align="center" width="36px" src="" />
+<img align="center" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> &nbsp; <img align="center" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" /> &nbsp; <img align="center" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" /> &nbsp; <img align="center" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> &nbsp; <img align="center" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" /> &nbsp; <img align="center" width="36px" src="https://github.com/Aj88science/About-Me/blob/main/download.png" /> &nbsp;<img align="center" width="36px" src="https://github.com/Aj88science/About-Me/blob/main/kisspng-matlab-mathworks-simulink-computer-software-eigenf-deep-learning-5b196403700b54.8609250515283906594589.jpg" /> &nbsp; <img align="center" width="36px" src="https://github.com/Aj88science/About-Me/blob/main/2109567.png" />
    
    <h3>More about me</h3>
    
@@ -39,7 +39,7 @@
 <a href="mailto:jena2002ayush@gmail.com"><img src="https://github.com/rajdas2001/rajdas2001/blob/master/google.png" width="40" /></a>
 <a href="https://www.instagram.com/starstruck_88/"><img src="https://github.com/rajdas2001/rajdas2001/blob/master/instagram.png" width="40" /></a>
 <!--
-<a href="https://twitter.com/RajDas39"><img src="https://github.com/rajdas2001/rajdas2001/blob/master/twitter.png" width="40" /></a>
+<a href="https://twitter.com/ayushman200208"><img src="https://github.com/rajdas2001/rajdas2001/blob/master/twitter.png" width="40" /></a>
 -->
 </p>  
 
